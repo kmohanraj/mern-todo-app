@@ -1,6 +1,6 @@
 import React, {Component} from "react"
 
-export default class CreateTodo extends Component {
+export default class CreateProduct extends Component {
 
     constructor(props) {
         super(props);
