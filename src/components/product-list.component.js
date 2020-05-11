@@ -1,10 +1,10 @@
 import React, {Component} from "react"
 
-export default class TodoList extends Component {
+export default class ProductList extends Component {
     render () {
         return (
             <div>
-                <p>Welcome to Todo List Componentd</p>
+                <p>Welcome to Product List Componentd</p>
             </div>
         )
     }
